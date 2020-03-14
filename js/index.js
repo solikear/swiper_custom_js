@@ -1,9 +1,10 @@
 /*
  * @Date: 2020-03-13 11:59:56
  * @LastEditors: Deer404
- * @LastEditTime: 2020-03-14 14:28:21
- * @FilePath: \练习\js\index.js
+ * @LastEditTime: 2020-03-14 19:58:34
+ * @FilePath: \轮播图\js\index.js
  */
+"use strict"
 let ul = document.querySelector("ul")
 let next = document.querySelector("#next")
 let prev = document.querySelector("#prev")
